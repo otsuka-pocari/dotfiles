@@ -1,0 +1,18 @@
+[user]
+  name = otsuka-pocari
+  email = akinori.otsuka.55@gmail.com
+
+[init]
+  defaultBranch = main
+
+[fetch]
+  prune = true
+
+[pull]
+  ff = only
+
+[alias]
+  co = checkout
+  br = branch
+  ci = commit
+  st = status
